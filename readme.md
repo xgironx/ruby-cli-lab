@@ -1,11 +1,11 @@
 # Ruby CLI Lab
 
 Today is _your_ chance to practice Ruby. You'll have the option to choose one of
-three prompts:
+three prompts (ranked by difficulty):
 
-- [Battleship](./battleship.md)
-- [Flash Cards](./flash_cards.md)
-- [Personal Finance](./personal_finance.md)
+1. [Flash Cards](./flash_cards.md)
+1. [Personal Finance](./personal_finance.md)
+1. [Battleship](./battleship.md)
 
 ## Getting Started
 
