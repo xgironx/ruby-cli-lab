@@ -17,7 +17,7 @@ command line.
 
 ## Features
 
-Users should be able to enter their transactions (which have an payee, an
+Users should be able to enter their transactions (which have a payee, an
 amount, a date, and a category). They can see a list of all transactions, edit /
 delete transactions, and see their current balance.
 
