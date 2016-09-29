@@ -38,4 +38,16 @@ end
 Menu.display
 ```
 
-What other classes will you have?
+What other classes will you have? A flashcard?
+
+```rb
+class Flashcard
+  attr_accessor :front, :back
+  def initialize front, back
+    @front = front
+    @back = back
+  end
+end
+
+Flashcard.new "Buenos Dias", "Good morning"
+```
